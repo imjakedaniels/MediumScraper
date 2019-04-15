@@ -1,5 +1,5 @@
 # MediumScraper
-This scraper pulls h3 titles, date, number of claps, author, and reading time based on tag input (ex. SEO, data-science) from Medium.com
+This scraper pulls titles, publish date, number of claps, author, and reading time based on tag input (ex. SEO, data-science) from Medium.com
 
 However, I will not be uploading it :)
 
