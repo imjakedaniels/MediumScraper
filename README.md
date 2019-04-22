@@ -1,8 +1,16 @@
+
 # Medium Market Research Reports
+This scraper pulls titles, publish date, number of claps, author, and reading time based on tag input (ex. SEO, data-science) from Medium.com
 
-I have a scraper that's able to pull headers, claps, authors, urls, and reading time from any tag on Medium.com (ex. SEO, Artifical Intelligence, True Crime)
-I'm then able to use the URLs and run a second scraper that pulls the full text for each article.
+However, I will not be uploading it :)
 
-This has been packaged to deliver market research on the respective topics. It will be scaled to five years of articles. Then examined by contrasting the last year/six-months/three-months of data to deliver updated topics/trends based on correlations, popularity, and efficiency being discussed.
+I will be uploading a 12-month report based on the SEO to showcase the capabilities (rough).
 
-Please look at the report_output file and see a rough outline.
+I can generate these market research reports on any tag on Medium (ex. travel, SEO, lifestyle) that produce clusters of topics using LDA, networks of correlated words using pairwise regression, and which buzzwords are good/bad at generating claps using vertices in igraph, plus more.
+
+The reports will be for sale (3, 6, 12-months, or annual ex. 2017, 2018) -- there are approximately 5,000 articles every 3 months.
+
+These are ideal reports to deliver to clients in their industries!
+
+Contact me directly for more opportunities: jake@datacritics.com.
+
